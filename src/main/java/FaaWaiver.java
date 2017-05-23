@@ -76,7 +76,7 @@ public class FaaWaiver extends Application {
         formatGridPane(mGridPane);
         int index=0;
 
-        //  Tomorrow, get the list of Pilots from the database. 
+        //  Tomorrow, get the list of Pilots from the database.
         mGridPane.addRow(index++,new Label("Pilot"), mPilotComboBox);
        // mPilotComboBox.getItems().addAll("bill", "mary", "cindy");
         List    tempList = new ArrayList() ;
