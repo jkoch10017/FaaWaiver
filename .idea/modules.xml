@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FaaWaiver.iml" filepath="$PROJECT_DIR$/FaaWaiver.iml" group="FaaWaiver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FaaWaiver_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FaaWaiver_main.iml" group="FaaWaiver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FaaWaiver_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FaaWaiver_test.iml" group="FaaWaiver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/192226058/FlightBag.iml" filepath="$PROJECT_DIR$/.idea/modules/192226058/FlightBag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1445196262/Test100.iml" filepath="$PROJECT_DIR$/.idea/modules/-1445196262/Test100.iml" group="Test100" />
+    </modules>
+  </component>
+</project>
